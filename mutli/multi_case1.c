@@ -1,0 +1,31 @@
+//Multiplication of two numbers
+
+#include <stdio.h>
+
+int main()
+{
+        //variable declaration
+        int i4value1;
+        int i4value2;
+        int i4sub;
+
+        //intializing value into variables
+        scanf("%d %d" , &i4value1, &i4value2);
+
+        //Main Logic
+        i4sub = i4value1 * i4value2;
+
+        //printing out put
+        printf("%d\n" , i4sub);
+
+}
+
+
+/*
+Out Put
+-------
+5
+10
+15
+*/
+
