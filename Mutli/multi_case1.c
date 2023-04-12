@@ -18,6 +18,8 @@ int main()
         //printing out put
         printf("%d\n" , i4sub);
 
+	return 0;
+
 }
 
 

@@ -21,6 +21,8 @@ int main()
         //printing out put
         printf("The Multipication of %d And %d Is : %d\n" , i4value1, i4value2, i4sub);
 
+	return 0;
+
 }
 
 /*
