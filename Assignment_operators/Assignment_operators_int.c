@@ -11,7 +11,7 @@ int main(){
         int e = 5;
 
         //main logic
-        a = a += 'c';
+        a = a += 5.0;
 
         //printing out put
         printf("value of m += 5.0 is : ");
@@ -56,7 +56,7 @@ int main(){
 /*
  * Out Put
  * -------------------------
- * value of m += 5.0 is : 104
+ * value of m += 5.0 is : 10
    value of m *= 5.0 is : 25
    value of m /= 5.0 is : 1
    value of m%= 5.0 is : 0
