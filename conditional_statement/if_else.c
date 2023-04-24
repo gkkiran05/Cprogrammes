@@ -15,10 +15,11 @@ int main()
 
     //Main Logic
 
-    //Percentage < 0 and > 35 then Fail
-    //Percentage <= 35 and >50 then Pass
-    //Percentage <= 50 and >75 then Average
-    //Percentage <= 75 and >= 100 then Distinction
+    //percentage <= 0 or > 100 then Invalid input
+    //Percentage >  0 and < 35 then Fail
+    //Percentage >= 35 and < 50 then Pass
+    //Percentage >= 50 and < 75 then Average
+    //Percentage >= 75 and <= 100 then Distinction
 
     if (student_percent <= 0 || student_percent > 100)
     {
