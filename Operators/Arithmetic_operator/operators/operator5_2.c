@@ -4,7 +4,7 @@ int main()
 {
         //variable Declaration and Initilization
         float d;
-        int a = 5;
+        int a = 7;
         int b = 2;
 
         //Main logic
