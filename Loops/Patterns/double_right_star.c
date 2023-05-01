@@ -1,4 +1,4 @@
-//Programme for printing Right angle traingle pattern Filled with star
+//Programme for printing Double Right angle traingle pattern Filled with star
 
 #include <stdio.h>
 
